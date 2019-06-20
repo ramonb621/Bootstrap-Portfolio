@@ -54,7 +54,7 @@ a{
     padding-top:15px;
     padding-left: 100%;
     padding-right: 100px;
-    padding-bottom: 15px;
+    padding-bottom: 50px;
     background-color: #39657D;
     border-style: solid;
     border-color:#76CBCC;
@@ -62,7 +62,6 @@ a{
 .cont2, .cont3{
     display: block; 
     width:960px;
-    position: absolute;
     position: absolute;
     top: 125px;
     left: 185px;
@@ -75,40 +74,6 @@ a{
 }
 .cont3{
     height: 700px;
-}
-#project1, #project2, #project3, #project4{
-    width: 200px;
-    background-color: #25577D;
-    color: #008FFC;
-    text-align: center;
-}
-#project1{
-    padding: 10px;
-    display: block;
-    position: absolute;
-    top:125px;
-    right: 600px;
-}
-#project2{
-    padding: 10px;
-    display: block;
-    position: absolute;
-    top:125px;
-    left: 600px;
-}
-#project3{
-    padding: 10px;
-    display: block;
-    position: absolute;
-    right: 600px;
-    bottom:200px;
-}
-#project4{
-    padding: 10px;
-    display: block;
-    position: absolute;
-    left: 600px;   
-    bottom: 200px;
 }
 .me{
     float: left;
