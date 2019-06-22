@@ -37,8 +37,9 @@ a{
     text-align: justify;
     border:1.5px solid;
     position: absolute;
-    top: 125px;
-    left: 185px;
+    top: 160px;
+    left: 0;
+    right: 0;
     margin: auto;
     color: #39657D;
     background-color: #76CBCC;
@@ -46,14 +47,12 @@ a{
     z-index: 2;
 }
 .menu{
-    float: right;
     display: block;
     top:20px;
-    right: -10px;
+    left: 0;
+    right: 0;
     z-index: 1;
     padding-top:15px;
-    padding-left: 100%;
-    padding-right: 100px;
     padding-bottom: 50px;
     background-color: #39657D;
     border-style: solid;
@@ -63,8 +62,9 @@ a{
     display: block; 
     width:960px;
     position: absolute;
-    top: 125px;
-    left: 185px;
+    top: 160px;
+    left: 0;
+    right: 0;
     margin: auto;
     text-align: justify;
     border: 1.5px solid;
